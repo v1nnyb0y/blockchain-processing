@@ -1,0 +1,1 @@
+/Users/zhdanov.vdm/Documents/hse/blockchain-processing/build/classes/kotlin/main/com/bknprocessing/MainKt.class
